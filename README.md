@@ -3,7 +3,7 @@ Client side (frontend) of the Memorizz App. Created by following Parts 1 and 2 o
 [Go to the web app](https://memorizz-learn-mern.netlify.app)
 
 ### Deployment
-The client is manually deployed on Netlify  
+The client is manually deployed using Netlify's free service  
   
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8d6aec6c-1a0d-4497-8384-e9c7d3807224/deploy-status)](https://app.netlify.com/sites/memorizz-learn-mern/deploys)
   
